@@ -45,14 +45,3 @@
 <img src="https://raw.githubusercontent.com/MishkatMukit/MishkatMukit/main/profile/tetris-graph.svg" width="100%"/>
 </div>
 
-<sub>Requires a one-time GitHub Actions setup — see below.</sub>
-
-<br/>
-
----
-
-
-
-Push this to `main` and let it run once (check the **Actions** tab). After that, `stats.svg`, `top-langs.svg`, and `tetris-graph.svg` will exist in `profile/` and the images above will render — refreshed automatically every day.
-
-</details>
