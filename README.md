@@ -1,205 +1,133 @@
-<!-- Banner -->
+<div align="center">
 
-<h1 align="center">
-Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mishkat Mahabub
-</h1>
-
-<h3 align="center">
-Full Stack Web Developer • Backend Engineer • CSE Undergraduate
-</h3>
-
-<p align="center">
-
-<a href="mailto:mahabubmishkat22@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Mishkat%20Mahabub&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20CSE%20Undergrad&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://github.com/MishkatMukit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+backend+systems;Crafting+clean+full-stack+apps;Exploring+Deep+Learning+%26+EEG+Research;Always+shipping,+always+learning&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22&pause=1200"/>
 </a>
 
-</p>
+<br/>
 
----
+<a href="mailto:mahabubmishkat22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/MishkatMukit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://linkedin.com/in/mishkat-mahabub"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-# About Me
+</div>
 
-I'm a **Computer Science & Engineering** undergraduate passionate about building scalable backend systems and modern full-stack web applications.
+<br/>
 
-I enjoy transforming ideas into reliable software using modern technologies while continuously learning software engineering best practices.
+## 🧭 About Me
 
-Currently exploring
+```yaml
+name: Mishkat Mahabub
+role: Computer Science & Engineering Undergraduate
+focus: Backend Architecture · REST APIs · Full-Stack Engineering
+research: Deep Learning · EEG Signal Processing · GANs for Data Augmentation
+mindset: "Turning ideas into reliable, scalable software."
+```
 
-- Backend Architecture
-- REST API Design
-- Database Optimization
-- Software Engineering
-- Machine Learning
-- EEG Research
-- GANs for Data Augmentation
+I'm a CSE undergraduate who loves building **scalable backend systems** and **modern full-stack applications**, while diving into **machine learning research** on the side. I care about writing clean, maintainable code and following solid software engineering practices — from system design to database optimization.
 
----
+<br/>
 
-# Current Focus
+## 🚀 Currently Exploring
 
-- Building scalable Full Stack applications
-- Backend Development with TypeScript
-- Prisma ORM & PostgreSQL
-- System Design Fundamentals
-- Software Engineering
-- Deep Learning Research
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**⚙️ Engineering**
+- Backend architecture & REST API design
+- Database optimization (PostgreSQL, Prisma)
+- System design fundamentals
+- Software engineering best practices
 
-# Tech Stack
+</td>
+<td width="50%" valign="top">
 
-## Languages
+**🧠 Research**
+- Machine Learning & Deep Learning
+- EEG signal research
+- GANs for data augmentation
 
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=js,ts,c,cpp"/></p>
+
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css"/></p>
+
+</td>
+<td valign="top" width="50%">
+
+**Backend**
 <p>
-
-<img src="https://skillicons.dev/icons?i=js,ts,c,cpp"/>
-
-</p>
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css"/>
-
-</p>
-
-## Backend
-
-<p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma"/>
-
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/>
 </p>
 
-## Database
+**Database**
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/></p>
 
-<p>
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
+**Tools & Platforms**
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,netlify"/></p>
 
-</p>
+<br/>
 
-## Tools
+## 📊 GitHub Analytics
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,netlify"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MishkatMukit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishkatMukit&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MishkatMukit&theme=tokyonight&hide_border=true"/>
 
----
+</div>
 
-# Featured Projects
+## 📈 Contribution Graph
 
-## Blogging REST API
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MishkatMukit&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
 
-Backend application featuring
+## 🏆 GitHub Trophies
 
-- Authentication
-- Authorization
-- JWT
-- Role-Based Access Control
-- Prisma ORM
-- PostgreSQL
-- Search
-- Filtering
-- Pagination
-- View Analytics
-- TypeScript
-- Express.js
-
----
-
-## EEG Classification Research
-
-Conference Paper
-
-Research on improving EEG classification performance using
-
-- Conditional WGAN
-- Deep Learning
-- PyTorch
-- Data Augmentation
-- EEG Signal Processing
-
----
-
-## Currently Building
-
-- More scalable backend systems
-- Advanced REST APIs
-- Full Stack applications
-
----
-
-# GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MishkatMukit&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishkatMukit&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MishkatMukit&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MishkatMukit&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=MishkatMukit&theme=algolia&margin-w=15&no-frame=true"/>
+</div>
 
-</p>
+<br/>
 
----
+## 🤝 Let's Connect
 
-# Coding Philosophy
+<div align="center">
 
-> First solve the problem.
->
-> Then design the solution.
->
-> Finally write clean, maintainable code.
+I'm always open to interesting conversations, collaborations, or backend/full-stack opportunities — feel free to reach out!
 
----
+<a href="mailto:mahabubmishkat22@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/MishkatMukit"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github"/></a>
 
-# Let's Connect
+<br/><br/>
 
-📧 **Email**
+<img src="https://komarev.com/ghpvc/?username=MishkatMukit&label=Profile%20Views&color=1f6feb&style=for-the-badge"/>
 
-mahabubmishkat22@gmail.com
+</div>
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MishkatMukit&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
