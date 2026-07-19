@@ -5,14 +5,12 @@
 <div align="center">
   <h1>👋 Mishkat Mahabub</h1>
   <p><strong>Full Stack Developer · Backend Engineer</strong></p>
-  
-  ### 📍 Location & Contact
   <p>
     <strong>📍 Chattogram, Bangladesh</strong> | 
-    <a href="mailto:mahabubmishkat22@gmail.com">📧 mahabubmishkat22@gmail.com</a>
   </p>
   
-  ### 🔗 Connect With Me
+  ### 🔗 Connect Me here
+   <a href="mailto:mahabubmishkat8@gmail.com">📧 mahabubmishkat22@gmail.com</a>
   <a href="https://github.com/MishkatMukit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -74,10 +72,9 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable back
   <img height="180" src="https://raw.githubusercontent.com/MishkatMukit/MishkatMukit/main/profile/top-langs.svg" alt="Top Languages"/>
 </div>
 
-### 🐍 Interactive Snake Game
+### 📈 Activity Graph
 <div align="center">
-  <p><a href="https://mishkatmukit.github.io/snake-game/"><strong>🎮 Click here to play Snake Game</strong></a></p>
-  <p><em>Use Arrow Keys or WASD to move • Eat the red food to grow • Avoid hitting walls and yourself!</em></p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=MishkatMukit&theme=dark-dimmed&hide_border=true&area=true&point=FF6B6B&line=58A6FF&bg_color=0D1117" width="100%" alt="Contribution Activity Graph"/>
 </div>
 
 ---
