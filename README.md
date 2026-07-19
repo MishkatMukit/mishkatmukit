@@ -1,150 +1,89 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mishkat+Mahabub+👋;Full+Stack+Developer+%7C+Backend+Engineer;Building+Scalable+Web+Applications" alt="Typing SVG" />
-
-# Mishkat Mahabub
-
-### Full Stack Developer • Backend Engineer
-
-📍 Chattogram, Bangladesh  
-📧 **mahabubmishkat22@gmail.com**
-
-<p>
-<a href="https://github.com/MishkatMukit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://mishkatmahabub.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:mahabubmishkat22@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+Profile!;Full+Stack+Developer+%26+Backend+Engineer;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </div>
-
----
-
-# About Me
-
-I'm a **Full Stack Developer** from **Bangladesh** who enjoys building modern, scalable, and user-friendly web applications.
-
-My primary focus is backend development with **Node.js** and **Express**, while also creating responsive and interactive frontends using **React** and **Next.js**.
-
-I enjoy solving real-world problems, learning new technologies, and writing clean, maintainable code.
-
----
-
-# Currently
-
-- Building full-stack web applications
-- Exploring **Next.js** and modern React patterns
-- Learning backend architecture and system design
-- Developing scalable REST APIs
-- Contributing to open-source projects
-
----
-
-# Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,c,cpp" />
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,netlify" />
-</p>
-
----
-
-# Featured Projects
-
-| Project | Description | Stack |
-|----------|-------------|-------|
-| **MeterMate** | Utility application for prepaid electricity meter users in Bangladesh. | React, TypeScript, Tailwind CSS |
-| **Tourism Website** | Full-stack tourism booking platform with authentication and dashboard. | React, Express, MongoDB |
-| **Photography Portfolio** | Portfolio showcasing photography and cinematography projects. | React, Tailwind CSS |
-
----
-
-# GitHub Statistics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MishkatMukit&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishkatMukit&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MishkatMukit&theme=github-dark-blue&hide_border=true"/>
-
+  <h1>👋 Mishkat Mahabub</h1>
+  <p><strong>Full Stack Developer · Backend Engineer</strong></p>
+  
+  <p>
+    <strong>📍 Chattogram, Bangladesh</strong> | 
+    <a href="mailto:mahabubmishkat22@gmail.com"><strong>📧 mahabubmishkat22@gmail.com</strong></a>
+  </p>
+  
+  <div style="margin: 15px 0;">
+    <a href="https://github.com/MishkatMukit">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/mishkat-mahabub/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://twitter.com/yourhandle">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://www.portfolio.com">
+      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=world&logoColor=white" alt="Portfolio"/>
+    </a>
+  </div>
 </div>
 
 ---
 
-# Contribution Graph
+## 👨‍💻 About Me
+
+I'm a passionate **Full Stack Developer** with a focus on building scalable backend systems and interactive frontend applications. I love solving complex problems and creating efficient, maintainable code. With expertise in modern JavaScript ecosystems, I'm committed to continuous learning and staying updated with the latest technologies in web development.
+
+### 🚀 What I'm Currently Doing
+
+- 🔨 Building scalable APIs with Node.js and Express
+- 💻 Exploring Next.js and modern React patterns
+- 🏗️ Working on a tourism website with full-stack implementation
+- 📚 Learning and implementing best practices in backend architecture
+- 🎯 Contributing to open-source projects and the developer community
+
+---
+
+## 💼 Skills & Technologies
+
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,c,cpp" alt="Languages"/>
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css" alt="Frontend"/>
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Databases"/>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,netlify" alt="Tools"/>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
+  <img height="180" src="https://raw.githubusercontent.com/MishkatMukit/MishkatMukit/main/profile/stats.svg" alt="GitHub Stats"/>
+  <img height="180" src="https://raw.githubusercontent.com/MishkatMukit/MishkatMukit/main/profile/top-langs.svg" alt="Top Languages"/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MishkatMukit&theme=github-dark&hide_border=true"/>
+### 🎮 Contribution Activity
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MishkatMukit/MishkatMukit/main/profile/breakout.svg" width="100%" alt="Breakout Activity Graph"/>
 </div>
 
 ---
 
-# Fun Facts
+## 🎯 My Goals
 
-- I enjoy building tools that solve real-world problems.
-- Clean UI and scalable backend architecture are my favorite parts of development.
-- I love learning new technologies and improving my skills every day.
-- Coffee + Music + Coding = Perfect Day.
+- 🌟 Build impactful projects that solve real-world problems
+- 📈 Master advanced backend architecture patterns
+- 🤝 Collaborate with talented developers worldwide
+- 🚀 Contribute meaningfully to the open-source community
 
 ---
-
-<div align="center">
-
-### Thanks for visiting!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-<img src="https://komarev.com/ghpvc/?username=MishkatMukit&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</div>
