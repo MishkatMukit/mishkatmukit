@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>👋 Mishkat Mahabub</h1>
+  <!-- <h1>👋 Mishkat Mahabub</h1> -->
   <p><strong>Full Stack Developer · Backend Engineer</strong></p>
   
   <p>
