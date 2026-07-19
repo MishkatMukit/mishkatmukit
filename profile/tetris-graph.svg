@@ -369,5 +369,5 @@
   <rect x="714" y="56" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
   <rect x="714" y="70" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
   <rect x="714" y="84" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
-  <rect x="728" y="0" width="11" height="11" rx="2" ry="2" fill="var(--c2)" />
+  <rect x="728" y="0" width="11" height="11" rx="2" ry="2" fill="var(--c3)" />
 </svg>
