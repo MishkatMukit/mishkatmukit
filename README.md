@@ -18,10 +18,7 @@
     <a href="https://www.linkedin.com/in/mishkat-mahabub/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/yourhandle">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://www.portfolio.com">
+    <a href="mishkatmahabub.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=world&logoColor=white" alt="Portfolio"/>
     </a>
   </div>
