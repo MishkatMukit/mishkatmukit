@@ -34,7 +34,6 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable back
 
 - 🔨 Building scalable APIs with Node.js and Express
 - 💻 Exploring Next.js and modern React patterns
-- 🏗️ Working on a tourism website with full-stack implementation
 - 📚 Learning and implementing best practices in backend architecture
 - 🎯 Contributing to open-source projects and the developer community
 
