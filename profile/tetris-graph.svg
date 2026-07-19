@@ -50,8 +50,8 @@
   <rect x="84" y="0" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
   <rect x="84" y="14" width="11" height="11" rx="2" ry="2" fill="var(--c4)" />
   <rect x="84" y="28" width="11" height="11" rx="2" ry="2" fill="var(--c2)" />
-  <rect x="84" y="42" width="11" height="11" rx="2" ry="2" fill="var(--c3)" />
-  <rect x="84" y="56" width="11" height="11" rx="2" ry="2" fill="var(--c3)" />
+  <rect x="84" y="42" width="11" height="11" rx="2" ry="2" fill="var(--c4)" />
+  <rect x="84" y="56" width="11" height="11" rx="2" ry="2" fill="var(--c4)" />
   <rect x="84" y="70" width="11" height="11" rx="2" ry="2" fill="var(--c1)" />
   <rect x="84" y="84" width="11" height="11" rx="2" ry="2" fill="var(--c2)" />
   <rect x="98" y="0" width="11" height="11" rx="2" ry="2" fill="#216e39"><animate attributeName="fill" calcMode="discrete" dur="6.5s" repeatCount="1" fill="freeze" keyTimes="0.0000;0.1000;0.2000;0.3000" values="#216e39;#216e39;#216e39;#216e39" /></rect>
@@ -129,7 +129,7 @@
   <rect x="238" y="28" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
   <rect x="238" y="42" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
   <rect x="238" y="56" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
-  <rect x="238" y="70" width="11" height="11" rx="2" ry="2" fill="var(--c3)" />
+  <rect x="238" y="70" width="11" height="11" rx="2" ry="2" fill="var(--c4)" />
   <rect x="238" y="84" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
   <rect x="252" y="0" width="11" height="11" rx="2" ry="2" fill="var(--c2)" />
   <rect x="252" y="14" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
@@ -312,7 +312,7 @@
   <rect x="602" y="42" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><animate attributeName="fill" calcMode="discrete" dur="6.5s" repeatCount="1" fill="freeze" begin="3s" keyTimes="0.0000;0.4444;0.5556" values="#ebedf0;#216e39;#ebedf0" /></rect>
   <rect x="602" y="56" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><animate attributeName="fill" calcMode="discrete" dur="6.5s" repeatCount="1" fill="freeze" begin="3s" keyTimes="0.0000;0.5556;0.6667" values="#ebedf0;#216e39;#ebedf0" /></rect>
   <rect x="602" y="70" width="11" height="11" rx="2" ry="2" fill="#216e39"><animate attributeName="fill" calcMode="discrete" dur="6.5s" repeatCount="1" fill="freeze" begin="3s" keyTimes="0.0000;0.6667;0.7778" values="#216e39;#216e39;#216e39" /></rect>
-  <rect x="602" y="84" width="11" height="11" rx="2" ry="2" fill="#30a14e"><animate attributeName="fill" calcMode="discrete" dur="6.5s" repeatCount="1" fill="freeze" begin="3s" keyTimes="0.0000;0.7778;0.8889" values="#30a14e;#216e39;#30a14e" /></rect>
+  <rect x="602" y="84" width="11" height="11" rx="2" ry="2" fill="#216e39"><animate attributeName="fill" calcMode="discrete" dur="6.5s" repeatCount="1" fill="freeze" begin="3s" keyTimes="0.0000;0.7778;0.8889" values="#216e39;#216e39;#216e39" /></rect>
   <rect x="616" y="0" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><animate attributeName="fill" calcMode="discrete" dur="6.5s" repeatCount="1" fill="freeze" begin="3s" keyTimes="0.0000;0.1111;0.2222" values="#ebedf0;#216e39;#ebedf0" /></rect>
   <rect x="616" y="14" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><animate attributeName="fill" calcMode="discrete" dur="6.5s" repeatCount="1" fill="freeze" begin="3s" keyTimes="0.0000;0.2222;0.3333" values="#ebedf0;#216e39;#ebedf0" /></rect>
   <rect x="616" y="28" width="11" height="11" rx="2" ry="2" fill="#ebedf0"><animate attributeName="fill" calcMode="discrete" dur="6.5s" repeatCount="1" fill="freeze" begin="3s" keyTimes="0.0000;0.3333;0.4444" values="#ebedf0;#216e39;#ebedf0" /></rect>
@@ -334,7 +334,7 @@
   <rect x="644" y="56" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
   <rect x="644" y="70" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
   <rect x="644" y="84" width="11" height="11" rx="2" ry="2" fill="var(--c1)" />
-  <rect x="658" y="0" width="11" height="11" rx="2" ry="2" fill="var(--c3)" />
+  <rect x="658" y="0" width="11" height="11" rx="2" ry="2" fill="var(--c4)" />
   <rect x="658" y="14" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
   <rect x="658" y="28" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
   <rect x="658" y="42" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
@@ -357,12 +357,12 @@
   <rect x="686" y="84" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
   <rect x="700" y="0" width="11" height="11" rx="2" ry="2" fill="var(--c1)" />
   <rect x="700" y="14" width="11" height="11" rx="2" ry="2" fill="var(--c4)" />
-  <rect x="700" y="28" width="11" height="11" rx="2" ry="2" fill="var(--c3)" />
+  <rect x="700" y="28" width="11" height="11" rx="2" ry="2" fill="var(--c4)" />
   <rect x="700" y="42" width="11" height="11" rx="2" ry="2" fill="var(--c1)" />
   <rect x="700" y="56" width="11" height="11" rx="2" ry="2" fill="var(--c4)" />
   <rect x="700" y="70" width="11" height="11" rx="2" ry="2" fill="var(--c1)" />
   <rect x="700" y="84" width="11" height="11" rx="2" ry="2" fill="var(--c1)" />
-  <rect x="714" y="0" width="11" height="11" rx="2" ry="2" fill="var(--c3)" />
+  <rect x="714" y="0" width="11" height="11" rx="2" ry="2" fill="var(--c4)" />
   <rect x="714" y="14" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
   <rect x="714" y="28" width="11" height="11" rx="2" ry="2" fill="var(--c0)" />
   <rect x="714" y="42" width="11" height="11" rx="2" ry="2" fill="var(--c2)" />
