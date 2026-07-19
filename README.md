@@ -1,4 +1,6 @@
-![Banner](https://via.placeholder.com/1200x300/0d1117/58a6ff?text=Mishkat+Mahabub+-+Full+Stack+Developer)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+Profile!;Full+Stack+Developer+%26+Backend+Engineer;Let's+build+something+amazing+together!" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <h1>👋 Mishkat Mahabub</h1>
@@ -15,7 +17,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=web&logoColor=white" alt="Portfolio"/>
+    <img src="mishkatmahabub.vercel.app" alt="Portfolio"/>
   </a>
 </div>
 
@@ -72,9 +74,10 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable back
   <img height="180" src="https://raw.githubusercontent.com/MishkatMukit/MishkatMukit/main/profile/top-langs.svg" alt="Top Languages"/>
 </div>
 
-### 🔥 Contribution Graph
+### 🐍 Interactive Snake Game
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MishkatMukit/MishkatMukit/main/profile/tetris-graph.svg" width="100%" alt="Contribution Graph"/>
+  <p><a href="https://mishkatmukit.github.io/snake-game/"><strong>🎮 Click here to play Snake Game</strong></a></p>
+  <p><em>Use Arrow Keys or WASD to move • Eat the red food to grow • Avoid hitting walls and yourself!</em></p>
 </div>
 
 ---
