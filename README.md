@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- <h1>👋 Mishkat Mahabub</h1> -->
-  <p><strong>Full Stack Developer · Backend Engineer</strong></p>
+  <p><strong>Full Stack Developer</strong></p>
   
   <p>
     <strong>📍 Chattogram, Bangladesh</strong> | 
