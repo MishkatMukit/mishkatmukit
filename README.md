@@ -8,7 +8,7 @@
   
   <p>
     <strong>📍 Chattogram, Bangladesh</strong> | 
-    <a href="mailto:mishkatmahabub2002@gmail.com"><strong>📧 mahabubmishkat22@gmail.com</strong></a>
+    <a href="mailto:mishkatmahabub2002@gmail.com"><strong>📧 mishkatmahabub2002@gmail.com</strong></a>
   </p>
   
   <div style="margin: 15px 0;">
