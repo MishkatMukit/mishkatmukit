@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mishkat%20Mahabub&fontSize=48&fontColor=ffffff&color=0:052E16,50:166534,100:22C55E" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mishkat%20Mahabub&fontSize=48&fontColor=ffffff&color=0:FFAE0C,100:FD3D01" />
 </div>
 
 <div align="center">
